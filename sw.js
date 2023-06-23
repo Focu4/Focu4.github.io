@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/2023/06/23/hello-world/index.html","88e9fbe7a9f39ed771abe8a49e06245a"],["/archives/2023/06/index.html","466d98eaae1f9983217b288bea4dd087"],["/archives/2023/index.html","98bfc34212b0a21d37c6e9cfc1e77549"],["/archives/index.html","2e243a0f02f2e42a201419972e469600"],["/css/images/banner.jpg","0394d7ba5b310b5037d2a139bef63fa4"],["/css/style.css","bb2872d0bdd8c37e982c4eb2112451c8"],["/fancybox/jquery.fancybox.min.css","a2d42584292f64c5827e8b67b1b38726"],["/fancybox/jquery.fancybox.min.js","49a6b4d019a934bcf83f0c397eba82d8"],["/index.html","cb0b27048eed8712afa2a824fe9cbf44"],["/js/jquery-3.6.4.min.js","641dd14370106e992d352166f5a07e99"],["/js/script.js","539104aee8c85909dca6e2be6817dcd7"],["/sw-register.js","cb6e547f7f2c970012f7e8fc895980de"]];
+var precacheConfig = [];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
